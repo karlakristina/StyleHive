@@ -5,7 +5,6 @@
 - Spring Boot programsko okruženje
 - Relacijske baze podataka (MySQL), kao što je MySQL
 - Docker tehnologija
-- Git sustav za kontrolu verzija, jedan od najraširenijih alata svoje vrste, omogućujući timovima da učinkovito upravljaju izvornim kodom.
 - Oracle Cloud Platform (OCP)e
 - IntelliJ IDEA razvojno okruženje
 
